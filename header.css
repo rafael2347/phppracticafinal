@@ -1,0 +1,22 @@
+*{
+    background-color: #F5F5DC;
+}
+.boton{
+    color:white;
+    background-color: blue;
+}
+.menu{
+   text-decoration: none;
+   color: blue;
+   font-size: 20px;
+
+   
+}
+.menu:hover{
+    color:red;
+}
+.modificarrr{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
